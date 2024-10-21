@@ -1,40 +1,29 @@
-//var date = new Date()
-//var convert = date.toString()
-//var copy = convert.slice(16,25)
-//document.write(convert)
+var originalnew =23;
+var newnum = originalnum +7;
 
-//var date = new Date()
-//var getday = date.getFullYear()
-//document.write(getday)
+var originalnum =23;
+var numtobeadded =7;
+var newnum =originalnum + numtobeadded;
 
-//var date = new Date()
-//var datemili = date.getTime
-//document.write(datemilisecond)
+var originalnum = 90;
+originalnum = originalnum +10;
 
-//var date = new Date()
-//date.setFullYear(2001)
+var originalnum ="23";
+var newnum =originalnum +7;
 
-
-//var now = new Date
-//var thehr = now.getHours
-//var themin = now.getMinutes
-//alert("current time:" + thehr + ":" + themin)
+var originalnum = 23;
+var newnum = originalnum +7;
 
 
-//function greeuser () {
-   // alert("hello these")
-//}
-    
-
-//var thesum
-//addnumber()
-//functionaddnumber ()  {
-//thesum = 2 + 2
-
-//}
 
 
-    
+
+
+
+
+
+
+
 
 
 

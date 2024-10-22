@@ -47,27 +47,37 @@
 
 //}
 
-const num1 = 6;
-const num2 = 6;
-const result = num1 >= num2;
-const value =false;
-if (value){
-    console.log("value is true")
+//const num1 = 6;
+//const num2 = 6;
+//const result = num1 >= num2;
+//const value =false;
+//if (value){
+   // console.log("value is true")
+//}
+
+
+//const name = "peter";
+//const age = "24";
+//if (name ==="bob" || age===24);
+//console.log("hello these user");
+
+//}    //{
+    //console.log("wrong value");
+//}
+
+
+var cleanscity =("karachi", "hyderabad", "punjab", "islamabad", "lahore");
+var citytocheck = prompt("enter your city");
+citytocheck =citytocheck.toLowerCase();
+var cleanscity =("karachi", "hyderabad", "punjab", "islamabad", "lahore");
+for(var i=0; i<=4; i++){
+if (citytocheck===cleanscity(i));
+alert("it is one of the cleanest city");
 }
 
-
-const name = "peter";
-const age = "24";
-if (name ==="bob" || age===24);{
-console.log("hello these user");
-
-}    {
-    console.log("wrong value");
-}
-
-
-
-
+citytocheck=citytocheck.toLowerCase();
+citytocheck=citytocheck.toUpperCase();
+document.write("enter your city");
 
 
 

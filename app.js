@@ -66,23 +66,34 @@
 //}
 
 
-var cleanscity =("karachi", "hyderabad", "punjab", "islamabad", "lahore");
-var citytocheck = prompt("enter your city");
-citytocheck =citytocheck.toLowerCase();
-var cleanscity =("karachi", "hyderabad", "punjab", "islamabad", "lahore");
-for(var i=0; i<=4; i++){
-if (citytocheck===cleanscity(i));
-alert("it is one of the cleanest city");
+//var cleanscity =("karachi", "hyderabad", "punjab", "islamabad", "lahore");
+//var citytocheck = prompt("enter your city");
+//citytocheck =citytocheck.toLowerCase();
+//var cleanscity =("karachi", "hyderabad", "punjab", "islamabad", "lahore");
+//for(var i=0; i<=4; i++){
+//if (citytocheck===cleanscity(i));
+//alert("it is one of the cleanest city");
+//}
+
+//citytocheck=citytocheck.toLowerCase();
+//citytocheck=citytocheck.toUpperCase();
+//document.write("enter your city");
+
+let amount =10;
+while(amount>0){
+console.log("I have +amount +dollars and I am going to the mall");
+amount--;
+
 }
 
-citytocheck=citytocheck.toLowerCase();
-citytocheck=citytocheck.toUpperCase();
-document.write("enter your city");
+
+let money =0;
 
 
-
-
-
+do {
+console.log("you have + money + dollars")
+money++;
+} while("money <10")
 
 
 

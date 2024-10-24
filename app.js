@@ -79,22 +79,30 @@
 //citytocheck=citytocheck.toUpperCase();
 //document.write("enter your city");
 
-let amount =10;
-while(amount>0){
-console.log("I have +amount +dollars and I am going to the mall");
-amount--;
+//let amount =10;
+//while(amount>0){
+//console.log("I have +amount +dollars and I am going to the mall");
+//amount--;
 
-}
-
-
-let money =0;
+//}
 
 
-do {
-console.log("you have + money + dollars")
-money++;
-} while("money <10")
+//let money =0;
 
+
+//do {
+//console.log("you have + money + dollars")
+//money++;
+//} while("money <10")
+
+
+
+
+
+//var dayname =("mon ,tue , wed, thu, fri , sat, sun,")
+//var now =new Date
+//var theday = now.getday();
+//var nameoftoday =dayname("the day");
 
 
 
